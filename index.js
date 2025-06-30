@@ -5,7 +5,7 @@ function createBot() {
     host: "NqouchaTeam.aternos.me",
     port: 43107,
     username: "AFK_Bot",
-    version: "1.21.6"
+    version: "1.21.6-release"
   });
 
   bot.on("spawn", () => {
